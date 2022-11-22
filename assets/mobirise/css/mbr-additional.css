@@ -1374,39 +1374,29 @@ a {
 .cid-thsJoOnX5q .mbr-section-subtitle {
   color: #e6c63b;
 }
-.cid-tfQJLpqndL {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
+.cid-tnWlvVIB6j {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-image: url("../../../assets/images/pexels-suzy-hazelwood-3672313-2000x1264.jpg");
 }
-.cid-tfQJLpqndL .mbr-overlay {
+.cid-tnWlvVIB6j .mbr-overlay {
   background-color: #000000;
-  opacity: 0.8;
+  opacity: 0.7;
 }
-.cid-tfQJLpqndL form.mbr-form {
-  border-radius: 10px;
-  background-color: #fafafa;
-}
-@media (min-width: 992px) {
-  .cid-tfQJLpqndL form.mbr-form {
-    padding: 3rem 2rem;
-    width: 70%;
-  }
-}
-@media (max-width: 991px) {
-  .cid-tfQJLpqndL form.mbr-form {
-    padding: 1rem;
-  }
-}
-.cid-tfQJLpqndL form.mbr-form .mbr-section-btn {
+.cid-tnWlvVIB6j form .mbr-section-btn {
   text-align: center;
   width: 100%;
 }
-.cid-tfQJLpqndL form.mbr-form .mbr-section-btn .btn {
-  width: 100%;
+.cid-tnWlvVIB6j form .mbr-section-btn .btn {
+  display: inline-flex;
 }
-.cid-tfQJLpqndL .mbr-section-title {
-  color: #e6c63b;
+@media (max-width: 991px) {
+  .cid-tnWlvVIB6j form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
+.cid-tnWlvVIB6j .mbr-section-title {
+  color: #ffe161;
 }
 .cid-sFAOjz8nX7 {
   padding-top: 2rem;
